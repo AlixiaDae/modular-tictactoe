@@ -50,4 +50,5 @@ body {
     text-align: center;
     font-size: 140px;
     border: 1px solid black;
+    cursor: default;
 }
